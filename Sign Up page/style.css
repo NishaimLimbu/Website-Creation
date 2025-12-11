@@ -110,7 +110,7 @@ button{
     transition: 0.3s;
 }
 
-botton:hover{
+button:hover{
     background-color: #6c0cc0;
 }
 
@@ -128,4 +128,5 @@ botton:hover{
 
 .signup a:hover{
     text-decoration: underline;
+
 }
